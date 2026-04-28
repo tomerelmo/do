@@ -1,0 +1,3 @@
+curl -skL https://raw.githubusercontent.com/tomerelmo/do/main/do_install.sh -o /shared/do_install.sh
+chmod +x /shared/do_install.sh
+/shared/do_install.sh
